@@ -1,6 +1,6 @@
 # BudgetCalcus
 
-BudgetWise is a simple and intuitive budget management application that allows users to set a budget, track expenses, and manage their balance efficiently. Whether you're saving for something special or just want to keep an eye on your spending, BudgetWise makes budgeting easier.
+BudgetCalcus is a simple and intuitive budget management application that allows users to set a budget, track expenses, and manage their balance efficiently. Whether you're saving for something special or just want to keep an eye on your spending, BudgetWise makes budgeting easier.
 
 ## Features
 
@@ -29,4 +29,4 @@ BudgetWise is a simple and intuitive budget management application that allows u
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kambar-ali/budgetwise.git
+   git clone https://github.com/kambar-ali/budget-app.git
