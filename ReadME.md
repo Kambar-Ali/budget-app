@@ -1,4 +1,4 @@
-# BudgetWise
+# BudgetCalcus
 
 BudgetWise is a simple and intuitive budget management application that allows users to set a budget, track expenses, and manage their balance efficiently. Whether you're saving for something special or just want to keep an eye on your spending, BudgetWise makes budgeting easier.
 
